@@ -1,0 +1,40 @@
+; This is a comment!
+; Although the help documentation recommends to not map characters to
+; their IPA value if their symbols are equivalent, I do it here for demonstration's sake.
+p > p
+pp > pː
+t > t
+tt > tː
+ 
+k > k
+kk > kː
+s > s
+ss > sː
+h > x
+’ > ʔ
+y > j
+; And this is another comment!
+w > w
+m > m
+mm > mː
+n > n
+nn > nː
+a > a
+aa > aː
+i > i
+ii > iː
+o > o
+oo > oː
+á > á
+í > í
+ó > ó
+áá > áː
+íí > íː
+óó > óː
+ts > ts
+tss > tsː
+ks > ks
+kss > ksː
+; Try commenting out the line below and running with blackfoot_lex.txt!
+ai > ɛ
+ao > ɔ

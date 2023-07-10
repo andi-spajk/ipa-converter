@@ -1,0 +1,64 @@
+; remember: phonemic conversion
+; b/β/[CV]_[CV#]
+; d/ð/[CV]_[CV#]
+; g/ɣ/[CV]_[CV#]
+; b/β/_\b
+; d/ð/_\b
+; g/ɣ/_\b
+
+; put this before c>k, or else the latter bleeds the former
+ch>tʃ
+
+; c>s>_F
+ci>θi
+ce>θe
+c>k
+
+z>θ
+
+gi>xi
+ge>xe
+qui>ki
+que>ke
+gui>gi
+gue>ge
+
+
+; # is whitespace placeholder
+#y#>#i#
+y#>i#
+
+
+j>x
+; The below cannot feed into the above
+ie>je
+ia>ja
+io>jo
+iu>ju
+ui>wi
+ue>we
+ua>wa
+uo>wo
+
+; after y>ʝ, but before ll>ʝ or else the latter will bleed into this rule 
+aʝ>ai
+eʝ>ei
+oʝ>oi
+uʝ>ui
+y>ʝ
+
+ñ>ɲ
+ll>ʝ
+
+r>ɾ
+ɾɾ>r
+lɾ>lr
+sɾ>sr
+nɾ>rr
+#ɾ>#r
+
+hu>w
+#h>#
+
+; replace all lone <h> with syllable boundaries
+h>.

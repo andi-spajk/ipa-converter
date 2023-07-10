@@ -1,0 +1,30 @@
+p>p
+t>t
+q>q
+'>ʔ
+b>b
+D>ɖ
+tlh>tɬ
+ch>tʃ
+Q>qχ
+; Comment out the repeated line so that I can switch bleeding direction depending on direction of conversion
+; If converting romz>ipa, rules will bleed down. Vice versa for ipa>romz.
+; So now, this file is set up to convert romz>ipa, because <j> is converted before <y> -> /j/
+;y>j
+j>dʒ
+y>j
+S>ʂ
+H>χ
+v>v
+gh>ɣ
+m>m
+n>n
+ng>ŋ
+r>r
+w>w
+l>l
+a>ɑ
+e>ɛ
+I>ɪ
+o>o
+u>u
